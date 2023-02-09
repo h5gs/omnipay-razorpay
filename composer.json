@@ -1,6 +1,8 @@
 {
     "name": "razorpay/omnipay-razorpay",
     "description": "Razorpay Omnipay 3.0 plugin for accepting payments",
+    "version": "1.0.0",
+
 
     "keywords": [
       "razorpay", "payments", "india",
